@@ -1,0 +1,11 @@
+p, h1, h4 {
+    color: rgb(68, 13, 59);
+}
+
+ul{
+    list-style-type: square;
+}
+
+img{
+    margin-bottom: 10px;
+}
